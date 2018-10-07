@@ -1,0 +1,26 @@
+//loaders
+export const LOGIN_ENABLE_LOADER = 'LOGIN_ENABLE_LOADER';
+export const LOGIN_DISABLE_LOADER = 'LOGIN_DISABLE_LOADER';
+
+// login
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_RESPONSE = 'LOGIN_RESPONSE';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+
+//signup
+export const SIGNUP_REQUEST = 'SIGNUP_REQUEST';
+export const SIGNUP_RESPONSE = 'SIGNUP_RESPONSE';
+export const SIGNUP_FAILURE = 'SIGNUP_FAILURE';
+
+//logout
+export const LOGOUT = 'LOGOUT';
+
+//Reset pin
+export const RESET_PIN = 'RESET_PIN';
+export const RESET_PIN_SUCCESS = 'RESET_PIN_SUCCESS';
+
+
+//trades
+export const CREATE_TRADE_REQUEST = 'CREATE_TRADE_REQUEST';
+export const CREATE_TRADE_RESPONSE = 'CREATE_TRADE_RESPONSE';
+export const CREATE_TRADE_FAILURE = 'CREATE_TRADE_FAILURE';
